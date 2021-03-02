@@ -1,4 +1,4 @@
-1. Requires Java JDK platform of Version 8 / 11.
+1. Requires Java JDK platform of Version 8 / 11 as jenkins only support this.
 2. Download the Jenkins.war file from offcial website.
 3. open Cmd prompt, check the Java version using "java --version" command.
 4. Run command "java -jar jenkins.war" to start the jenkins application.
