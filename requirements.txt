@@ -1,0 +1,11 @@
+1. Requires Java JDK platform of Version 8 / 11.
+2. Download the Jenkins.war file from offcial website.
+3. open Cmd prompt, check the Java version using "java --version" command.
+4. Run command "java -jar jenkins.war" to start the jenkins application.
+5.Open web browser and type "localhost:8080" in the URL section to access jenkins.
+6. jenkins runs on port 8080 as a local host.
+7. Give us initial password from cmd prompt and login.
+8. A initial setup will take place in the beggining which will install all basic pluggins.
+9.Then setup a User account using appropriate credentials or one can proceed as a Admin.
+10. Now good to go, one can start using Jenkins.
+11. Happy Learning :) :)
